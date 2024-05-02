@@ -1,7 +1,13 @@
 <template>
-  <div id="app">
+  <main>
+    <nav class=" w-full flex justify-between">
+      <p>Interactive chart</p>
+      <p>Interactive chart</p>
+    </nav>
+    <div></div>
     <bar-chart></bar-chart>
-  </div>
+  </main>
+
 </template>
 
 <script setup lang="ts">
